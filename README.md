@@ -9,7 +9,7 @@ The port version of [Bukkit Essentials](http://dev.bukkit.org/bukkit-plugins/ess
 
 #### [Download the latest _Development_ Build here!](https://github.com/LegendOfMCPE/EssentialsPE/raw/travis-build/EssentialsPE.phar)
 
-=
+
 
 EssentialsPE is a large plugin with a lot of features. Some features can be enabled and disabled in the configuration, but more configuration will be added in the future.
 
