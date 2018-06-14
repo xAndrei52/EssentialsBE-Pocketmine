@@ -46,7 +46,7 @@ Installation for EssentialsPE:<br>
 3. Restart your server.<br>
 4. Enjoy.<br>
 
-[![Poggit](https://camo.githubusercontent.com/a87103badc2a30942712206730fb7fde92bfd8d7/68747470733a2f2f706f676769742e706d6d702e696f2f63692e736869656c642f426c6f636b486f72697a6f6e732f426c6f636b506574732f426c6f636b50657473)
+![Poggit](https://camo.githubusercontent.com/a87103badc2a30942712206730fb7fde92bfd8d7/68747470733a2f2f706f676769742e706d6d702e696f2f63692e736869656c642f426c6f636b486f72697a6f6e732f426c6f636b506574732f426c6f636b50657473)
 
 ### Issues
 We always aim to keep EssentialsPE bug free, and reporting issues is greatly appreciated. If you happen to find an issue in EssentialsPE, here's what to do:<br>
