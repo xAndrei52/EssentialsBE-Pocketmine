@@ -1,4 +1,4 @@
-name: EssentialsPE
+name: PocketMineEssentials
 main: EssentialsPE\Loader
 version: 2.1.0
 api: [3.0.0, 3.0.0-ALPHA12]
