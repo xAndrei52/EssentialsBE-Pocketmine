@@ -8,8 +8,8 @@ version: 2.0.0
 messages:
   afk:
     self:
-      enable: "&eYou're now AFK"
-      disable: "&eYou're no longer AFK"
+      enable: "&bYou're toggled AFK Mode."
+      disable: "&bYou're no longer AFK"
     other:
-      enable: "&e@player is now AFK"
-      disable: "&e@player is no longer AFK"
+      enable: "&a@player &btoggled AFK mode."
+      disable: "&a@player &bdisabled AFK mode."
